@@ -24,7 +24,7 @@ def get_predefined_answer(user_question):
     return None
 
 # Uncomment and set your OpenAI key if you want to fallback to OpenAI
-# openai.api_key = "your-openai-api-key"
+# openai.api_key = "TODO"
 def get_llm_response(prompt):
     # Dummy fallback; replace with OpenAI or any LLM call if needed
     return "I'm not sure about that. Let me get back to you with more information."
