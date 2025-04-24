@@ -20,8 +20,8 @@ Clone this repository (or copy the code to a local directory):
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/thoughtful-ai-support-agent.git
-cd thoughtful-ai-support-agent
+git clone https://github.com/venkateshrachapudi/chatbot.git
+cd chatbot
 Create a virtual environment (optional but recommended):
 
 bash
